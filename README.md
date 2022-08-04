@@ -32,7 +32,9 @@ After the initial analysis, V. Isualize, CEO of PyBer, has given us a new assign
       - Suburban  $39.50
       - Urban     $16.57
 
-6. Total fares by city type between Jan and Apr
+6. Total fare by city type between Jan and Apr
 
+![image](https://user-images.githubusercontent.com/108709071/182773676-9eb463d9-4281-416c-b8bd-2e1e9d0dce49.png)
 
 ## Summary:
+From the results above, we can see that even though rural cities has the lowest number of rides, nomber of drivers, and total fares comparing to urban and suburban cities, rural city has the highest average fare per ride and average fare per driver. PyBer should showcase this to drivers to attract more drivers to rural cities to expand it's business in rural cities.
